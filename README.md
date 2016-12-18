@@ -4,7 +4,7 @@
 You can read about actual harmonographs [here](http://excelunusual.com/wp-content/uploads/2011/01/Harmonograph_Tutorial_2.pdf).
 There's also a nice book by Anthony Ashton about these, published by Wooden books.
 
-![example image](http://www.threerightangles.com/logbook/img/hgraph.png)
+![example image](img/hgraph.png)
 
 ## TODO
 * Allow dynamic manipulation of period in *x* and *y* directions
